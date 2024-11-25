@@ -16,3 +16,4 @@ done
 # 4. Set the Content type to application/json.
 # 5. Select which events to trigger (e.g., Push events).
 # 6. Click Add webhook
+# 7. Open the required port for inbound traffic 
